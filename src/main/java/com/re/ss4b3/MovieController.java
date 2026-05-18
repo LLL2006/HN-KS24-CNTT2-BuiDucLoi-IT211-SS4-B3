@@ -1,9 +1,5 @@
 package com.re.ss4b3;
 
-
-## Phần 2 – Thực thi
-
-        ```java
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
